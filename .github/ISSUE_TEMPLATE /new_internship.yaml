@@ -1,0 +1,42 @@
+name: ✨ New Internship
+description: Add a new internship to the list
+title: "[Internship] Company Name - Role"
+labels: [internship, contribution]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+      placeholder: e.g., Google
+    validations:
+      required: true
+
+  - type: input
+    id: role
+    attributes:
+      label: Internship Role
+      placeholder: e.g., Software Engineering Intern
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: e.g., Remote or Mountain View, CA
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Application Link
+      placeholder: Paste the official job link here
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes (Optional)
+      placeholder: Sponsorship status, deadline, U.S. citizenship required, etc.
