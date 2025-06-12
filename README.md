@@ -58,3 +58,11 @@ Got feedback or want a shoutout? Submit your project using our repo and we might
 
 📫 Visit us: [https://www.summer2026internships.com](https://www.summer2026internships.com)
 
+## 🏆 Top Contributors – Summer 2026 Leaderboard
+
+| Rank | GitHub Username | Contributions | Badge |
+|------|------------------|---------------|--------|
+| 🥇 1 | [@sarah-ai](https://github.com/sarah-ai) | 12 Roles Added | ![Gold](https://img.shields.io/badge/Gold%20Contributor-%23ffd700?style=flat-square&logo=github) |
+| 🥈 2 | [@rohan-tech](https://github.com/rohan-tech) | 9 Roles Added | ![Silver](https://img.shields.io/badge/Silver%20Contributor-%23c0c0c0?style=flat-square&logo=github) |
+| 🥉 3 | [@devjay](https://github.com/devjay) | 7 Roles Added | ![Bronze](https://img.shields.io/badge/Bronze%20Contributor-%23cd7f32?style=flat-square&logo=github) |
+| ⭐ 4 | [@alice-dev](https://github.com/alice-dev) | 5 Roles Added | ![Star](https://img.shields.io/badge/Contributor-%2300c87e?style=flat-square) |
