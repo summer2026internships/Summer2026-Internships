@@ -13,21 +13,11 @@ jobs:
       pull-requests: write
 
     steps:
-      - name: Checkout main
+      - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          ref: main
 
       - name: Install jq
         run: sudo apt-get install -y jq
-
-      - name: Set branch name
-        id: vars
-        run: echo "BRANCH=auto/update-listings-$(date +%Y-%m-%d)" >> $GITHUB_ENV
-
-      - name: Create new branch
-        run: |
-          git checkout -b $BRANCH
 
       - name: Fetch Airtable data and update JSON
         run: |
@@ -40,22 +30,13 @@ jobs:
               link: .fields.Link
             })' > .github/scripts/listings.json
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .github/scripts/listings.json
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "🔄 Update listings.json from Airtable"
-          git push --force origin $BRANCH
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "🔄 Auto-update listings.json from Airtable"
-          branch: ${{ env.BRANCH }}
           title: "🔄 Auto-update listings.json from Airtable"
           body: |
             This PR updates `.github/scripts/listings.json` with the latest internship data from Airtable.
+          branch: auto/update-listings-${{ github.run_id }}
           base: main
