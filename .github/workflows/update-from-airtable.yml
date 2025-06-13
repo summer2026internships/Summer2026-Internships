@@ -46,6 +46,12 @@ jobs:
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "🔄 Update listings.json from Airtable"
           git push --force origin ${{ env.BRANCH_NAME }}
+    
+      - name: Check for branch and diff
+        run: |
+         git status
+         git log --oneline -n 3
+         git remote -v
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
