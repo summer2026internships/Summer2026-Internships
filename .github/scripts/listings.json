@@ -1,43 +1,49 @@
 [
   {
     "company": "Green Planet Solutions",
-    "role": "Eco-Warrior Intern",
+    "role": null,
     "location": "Seattle, WA",
     "link": "https://example7088.com/apply3"
   },
   {
     "company": "Apple",
-    "role": "Machine Learning Intern",
+    "role": null,
     "location": "San Francisco, CA ",
     "link": "https://www.apple.com"
   },
   {
+    "company": null,
+    "role": null,
+    "location": null,
+    "link": "www.google.com"
+  },
+  {
     "company": "Yummy Bites Co.",
-    "role": "Foodie Content Creator Intern",
+    "role": null,
     "location": "Austin, TX",
     "link": "https://exampleb084.com/apply4"
   },
   {
     "company": "Epic Events",
-    "role": "Event Planning Prodigy Intern",
+    "role": null,
     "location": "Chicago, IL",
     "link": "https://example7b75.com/apply6"
   },
   {
     "company": "Magic Marketing Inc.",
-    "role": "Social Media Wizard Intern",
+    "role": null,
     "location": "New York, NY",
     "link": "https://example098f.com/apply1"
   },
   {
     "company": "Virtual Ventures",
-    "role": "VR Adventure Guide Intern",
+    "role": null,
     "location": "San Francisco, CA",
     "link": "https://examplec8c6.com/apply2"
   },
   {
     "company": "InnovateAI",
-    "role": "AI Trendsetter Intern",
+    "role": null,
     "location": "Boston, MA",
     "link": "https://example3082.com/apply5"
   }
