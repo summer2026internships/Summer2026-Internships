@@ -35,10 +35,9 @@ Contributions are welcome! You can:
 
 📌 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
-## 📬 Stay in the Loop
+## 📬 Stay in the Loop (https://www.summer2026internships.com)
 
 - 📥 **Subscribe for alerts:** Get notified as soon as new roles are posted
-- 
 - 🧵 **Join our LinkedIn threads & Telegram updates**
 - 📚 **Check out our blog** on recruiting timelines, resume prep, and interview tips
 
@@ -49,7 +48,7 @@ Contributions are welcome! You can:
 - 🔒 `Closed` – Application is no longer accepting submissions
 - 🌐 `Remote` – Fully remote internship role
 
-# 📋 Summer 2026 Internships
+# 📋 Summer 2026 Internships 
 
 <!-- START_TABLE -->
 | Company | Role | Location | Link |
@@ -70,7 +69,10 @@ Contributions are welcome! You can:
 - 🎓 [New Grad Full-Time Roles 2026](#) (Coming Soon)
 
 Made with 💚 by students, for students.  
+
 Got feedback or want a shoutout? Submit your project using our repo and we might feature it!
+
+👉 **Want to contribute?** 
 
 📫 Visit us: [https://www.summer2026internships.com](https://www.summer2026internships.com)
 
