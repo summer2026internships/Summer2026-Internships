@@ -52,6 +52,16 @@ Contributions are welcome! You can:
 # 📋 Summer 2026 Internships
 
 <!-- START_TABLE -->
+| Company | Role | Location | Link |
+| --- | --- | --- | --- |
+| Green Planet Solutions | None | Seattle, WA | [Apply](https://example7088.com/apply3) |
+| Apple | None | San Francisco, CA  | [Apply](https://www.apple.com) |
+| None | None | None | [Apply](www.google.com) |
+| Yummy Bites Co. | None | Austin, TX | [Apply](https://exampleb084.com/apply4) |
+| Epic Events | None | Chicago, IL | [Apply](https://example7b75.com/apply6) |
+| Magic Marketing Inc. | None | New York, NY | [Apply](https://example098f.com/apply1) |
+| Virtual Ventures | None | San Francisco, CA | [Apply](https://examplec8c6.com/apply2) |
+| InnovateAI | None | Boston, MA | [Apply](https://example3082.com/apply5) |
 <!-- END_TABLE -->
 
 ## 👀 Looking for More?
