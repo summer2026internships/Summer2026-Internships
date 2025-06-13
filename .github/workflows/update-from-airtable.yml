@@ -29,6 +29,17 @@ jobs:
               location: .fields.Location,
               link: .fields.Link
             })' > .github/scripts/listings.json
+      - name: Update README.md from listings.json
+        run: |
+          python3 .github/scripts/update-readme.py
+      
+      - name: Commit README update
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "📄 Update README.md with latest listings"
+
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
@@ -41,14 +52,4 @@ jobs:
           branch: auto/update-listings-${{ github.run_id }}-${{ github.run_attempt }}
           base: main
 
-      - name: Update README.md from listings.json
-        run: |
-          python3 .github/scripts/update-readme.py
       
-      - name: Commit README update
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "📄 Update README.md with latest listings"
-
