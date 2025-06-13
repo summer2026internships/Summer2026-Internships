@@ -40,3 +40,15 @@ jobs:
             This PR updates `.github/scripts/listings.json` with the latest internship data from Airtable.
           branch: auto/update-listings-${{ github.run_id }}-${{ github.run_attempt }}
           base: main
+
+      - name: Update README.md from listings.json
+        run: |
+          python3 .github/scripts/update-readme.py
+      
+      - name: Commit README update
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "📄 Update README.md with latest listings"
+
