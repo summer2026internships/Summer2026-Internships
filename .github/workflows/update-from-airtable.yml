@@ -1,38 +1,58 @@
-name: 🔄 Sync Airtable to listings.json
+name: 🔄 Sync Airtable to listings.json (via PR)
 
 on:
   schedule:
-    - cron: "0 8 * * *" # Every day at 8AM UTC
-  workflow_dispatch:     # Manual trigger
+    - cron: "0 8 * * *" # Daily at 8AM UTC
+  workflow_dispatch:
 
 jobs:
-  update-listings:
+  airtable-sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout main
         uses: actions/checkout@v3
         with:
           ref: main
 
       - name: Install jq
-        run: sudo apt-get install jq
+        run: sudo apt-get install -y jq
 
-      - name: Fetch data from Airtable
+      - name: Create new branch
+        run: |
+          BRANCH="auto/update-listings-$(date +%Y-%m-%d)"
+          echo "BRANCH_NAME=$BRANCH" >> $GITHUB_ENV
+          git checkout -b $BRANCH
+
+      - name: Fetch Airtable data and update JSON
         run: |
           curl -s -H "Authorization: Bearer ${{ secrets.AIRTABLE_API_KEY }}" \
           "https://api.airtable.com/v0/${{ secrets.AIRTABLE_BASE_ID }}/${{ secrets.AIRTABLE_TABLE_NAME }}?maxRecords=1000" \
           | jq '.records | map({
               company: .fields.Company,
-              role: .fields.Title,
+              role: .fields.Role,
               location: .fields.Location,
               link: .fields.Link
             })' > .github/scripts/listings.json
 
-      - name: Commit & Push if Changed
+      - name: Commit changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add .github/scripts/listings.json
-          git diff --cached --quiet || git commit -m "🔄 Update listings.json from Airtable"
-          git push origin main
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "🔄 Update listings.json from Airtable"
+          git push origin ${{ env.BRANCH_NAME }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ env.BRANCH_NAME }}
+          title: "🔄 Auto-update listings.json from Airtable"
+          body: |
+            This PR updates `.github/scripts/listings.json` with the latest internship data from Airtable.
+          base: main
