@@ -21,10 +21,12 @@ jobs:
       - name: Install jq
         run: sudo apt-get install -y jq
 
+      - name: Set branch name
+        id: vars
+        run: echo "BRANCH=auto/update-listings-$(date +%Y-%m-%d)" >> $GITHUB_ENV
+
       - name: Create new branch
         run: |
-          BRANCH="auto/update-listings-$(date +%Y-%m-%d)"
-          echo "BRANCH_NAME=$BRANCH" >> $GITHUB_ENV
           git checkout -b $BRANCH
 
       - name: Fetch Airtable data and update JSON
@@ -38,26 +40,21 @@ jobs:
               link: .fields.Link
             })' > .github/scripts/listings.json
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .github/scripts/listings.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "🔄 Update listings.json from Airtable"
-          git push --force origin ${{ env.BRANCH_NAME }}
-    
-      - name: Check for branch and diff
-        run: |
-         git status
-         git log --oneline -n 3
-         git remote -v
+          git push --force origin $BRANCH
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ env.BRANCH_NAME }}
+          commit-message: "🔄 Auto-update listings.json from Airtable"
+          branch: ${{ env.BRANCH }}
           title: "🔄 Auto-update listings.json from Airtable"
           body: |
             This PR updates `.github/scripts/listings.json` with the latest internship data from Airtable.
