@@ -38,6 +38,7 @@ Contributions are welcome! You can:
 ## 📬 Stay in the Loop
 
 - 📥 **Subscribe for alerts:** Get notified as soon as new roles are posted
+- 
 - 🧵 **Join our LinkedIn threads & Telegram updates**
 - 📚 **Check out our blog** on recruiting timelines, resume prep, and interview tips
 
@@ -47,6 +48,11 @@ Contributions are welcome! You can:
 - 🇺🇸 `U.S. Citizens Only` – Must be a U.S. Citizen
 - 🔒 `Closed` – Application is no longer accepting submissions
 - 🌐 `Remote` – Fully remote internship role
+
+# 📋 Summer 2026 Internships
+
+<!-- START_TABLE -->
+<!-- END_TABLE -->
 
 ## 👀 Looking for More?
 
