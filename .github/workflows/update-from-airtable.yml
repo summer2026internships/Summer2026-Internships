@@ -38,5 +38,5 @@ jobs:
           title: "🔄 Auto-update listings.json from Airtable"
           body: |
             This PR updates `.github/scripts/listings.json` with the latest internship data from Airtable.
-          branch: auto/update-listings-${{ github.run_id }}
+          branch: auto/update-listings-${{ github.run_id }}-${{ github.run_attempt }}
           base: main
