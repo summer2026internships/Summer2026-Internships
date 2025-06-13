@@ -23,10 +23,10 @@ jobs:
           curl -s -H "Authorization: Bearer ${{ secrets.AIRTABLE_API_KEY }}" \
           "https://api.airtable.com/v0/${{ secrets.AIRTABLE_BASE_ID }}/${{ secrets.AIRTABLE_TABLE_NAME }}?maxRecords=1000" \
           | jq '.records | map({
-              company: .fields.Company Name,
-              role: .fields.Internship Title,
+              company: .fields.Company,
+              role: .fields.Title,
               location: .fields.Location,
-              link: .fields.Application Link
+              link: .fields.Link
             })' > .github/scripts/listings.json
 
       - name: Commit & Push if Changed
