@@ -3,25 +3,36 @@ name: 🔄 Sync Airtable to listings.json
 on:
   schedule:
     - cron: "0 8 * * *" # Every day at 8AM UTC
-  workflow_dispatch:
+  workflow_dispatch:     # Manual trigger
 
 jobs:
   update-listings:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Install jq
+        run: sudo apt-get install jq
 
       - name: Fetch data from Airtable
         run: |
           curl -s -H "Authorization: Bearer ${{ secrets.AIRTABLE_API_KEY }}" \
-            "https://api.airtable.com/v0/${{ secrets.AIRTABLE_BASE_ID }}/${{ secrets.AIRTABLE_TABLE_NAME }}?maxRecords=1000" \
-            | jq '.records | map({company: .fields.Company, role: .fields.Role, location: .fields.Location, link: .fields.Link})' > .github/scripts/listings.json
+          "https://api.airtable.com/v0/${{ secrets.AIRTABLE_BASE_ID }}/${{ secrets.AIRTABLE_TABLE_NAME }}?maxRecords=1000" \
+          | jq '.records | map({
+              company: .fields.Company,
+              role: .fields.Role,
+              location: .fields.Location,
+              link: .fields.Link
+            })' > .github/scripts/listings.json
 
-      - name: Commit changes
+      - name: Commit & Push if Changed
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add .github/scripts/listings.json
-          git commit -m "🔄 Auto-update listings.json from Airtable" || echo "No changes"
-          git push origin dev
+          git diff --cached --quiet || git commit -m "🔄 Update listings.json from Airtable"
+          git push origin main
