@@ -72,9 +72,27 @@ Made with 💚 by students, for students.
 
 Got feedback or want a shoutout? Submit your project using our repo and we might feature it!
 
-👉 **Want to contribute?** 
+## 👉 **Want to contribute?** 🎉 Contributor Reward Program
 
-📫 Visit us: [https://www.summer2026internships.com](https://www.summer2026internships.com)
+We value your help in curating Summer 2026 internships!  
+➡️ For each **valid and approved internship post** submitted via GitHub Issues, you'll receive **$1 USD**.
+
+### ✅ How to Participate
+- Submit via this [Issue Template](https://github.com/summer2026internships/Summer2026-Internships/issues/new?template=new_internship.yaml)
+- Make sure it's:
+  - Only current students enrolled in U.S. school/universities with an active .edu email are eligible for the incentive. 
+  - Not a duplicate
+  - From a real company site or job board
+  - Has complete fields (company, title, location, link)
+
+### 💸 How to Get Paid
+- Once your issue has been reviewed and approved by us, we will reach out to your .edu email with steps to redeem your reward and claim the funds securely.
+
+### 🎁 Bonus
+Top 5 contributors each month will get **additional rewards** like:
+- Premium resume templates
+- LinkedIn cold DM scripts
+- Personal shout-outs in the README!
 
 ## 🏆 Top Contributors – Summer 2026 Leaderboard
 
@@ -84,3 +102,6 @@ Got feedback or want a shoutout? Submit your project using our repo and we might
 | 🥈 2 | [@rohan-tech](https://github.com/rohan-tech) | 9 Roles Added | ![Silver](https://img.shields.io/badge/Silver%20Contributor-%23c0c0c0?style=flat-square&logo=github) |
 | 🥉 3 | [@devjay](https://github.com/devjay) | 7 Roles Added | ![Bronze](https://img.shields.io/badge/Bronze%20Contributor-%23cd7f32?style=flat-square&logo=github) |
 | ⭐ 4 | [@alice-dev](https://github.com/alice-dev) | 5 Roles Added | ![Star](https://img.shields.io/badge/Contributor-%2300c87e?style=flat-square) |
+
+
+📫 For More Information Visit us: [https://www.summer2026internships.com](https://www.summer2026internships.com)
