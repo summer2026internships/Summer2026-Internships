@@ -2,11 +2,11 @@
 
 Welcome! This open-source repository is dedicated to helping students track and apply for **Summer 2026 internships** across **Software Engineering, Data, AI/ML, Product, Design, Marketing, Cybersecurity**, and more.
 
-The list is curated, spam-free, and regularly updated based on real-time job listings from 200K+ career sites and job boards. This project is maintained by the team at [Summer2026Internships.com](https://www.summer2026internships.com).
+The list is curated, spam-free, and regularly updated based on real-time job listings from 200K+ career sites and job boards. This project is maintained by the team at [summer2026Internships.com](https://www.summer2026internships.com).
 
 ## 🎯 What You'll Find Here
 
-Browse 250+ active internship opportunities by category:
+Browse 250+ active internship opportunities by category updated every minute!
 
 - 💻 **Software Engineering**
 - 🤖 **AI, Data Science & Machine Learning**
@@ -16,37 +16,6 @@ Browse 250+ active internship opportunities by category:
 - 🛡 **Cybersecurity**
 - 💰 **Finance & Quant**
 - 🧪 **Research & Biotech**
-
-## ⚡ Key Resources for Applicants
-
-- 🧠 **[Internship Success Toolkit](https://www.summer2026internships.com)** – All-in-one resource to boost your chances
-- 📬 **Get Email Alerts** when new internships are posted
-- 🔗 **Get Recruiter LinkedIn Lists** for networking
-- 📝 **Premium Resume Templates** & Rezi.ai Subscription for optimization
-
-> Want a shortcut to success? Grab the [All-in-One Package for just $9.99](https://www.summer2026internships.com#all-in-one-package)
-
-## 🙌 How You Can Help
-
-Contributions are welcome! You can:
-- Open a Pull Request to add internship listings
-- Create an issue to flag outdated or closed roles
-- Share this repo with friends or student communities
-
-📌 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
-
-## 📬 Stay in the Loop (https://www.summer2026internships.com)
-
-- 📥 **Subscribe for alerts:** Get notified as soon as new roles are posted
-- 🧵 **Join our LinkedIn threads & Telegram updates**
-- 📚 **Check out our blog** on recruiting timelines, resume prep, and interview tips
-
-## 🔎 Legend
-
-- 🛂 `No Sponsorship` – Internship does not support visa sponsorship
-- 🇺🇸 `U.S. Citizens Only` – Must be a U.S. Citizen
-- 🔒 `Closed` – Application is no longer accepting submissions
-- 🌐 `Remote` – Fully remote internship role
 
 # 📋 Summer 2026 Internships 
 
@@ -63,10 +32,21 @@ Contributions are welcome! You can:
 | Yummy Bites Co. | None | Austin, TX | [Apply Here](https://exampleb084.com/apply4) |
 <!-- END_TABLE -->
 
+
+## ⚡ Key Resources for Applicants (https://www.summer2026internships.com)
+
+- ⭐ **Your Personal Portfolio Website** – Add your Personal/Portfolio Website to boost your chances
+- 🧠 **[Internship Success Toolkit](https://www.summer2026internships.com)** – All-in-one resource to boost your chances
+- 📬 **Get Email Alerts** when new internships are posted
+- 🔗 **Get Recruiter LinkedIn Lists** for networking
+- 📝 **Premium Resume Templates** & Rezi.ai Subscription for optimization
+
 ## 👀 Looking for More?
 
 - 🌍 [Off-Season Internships 2025](#) (Coming Soon)
 - 🎓 [New Grad Full-Time Roles 2026](#) (Coming Soon)
+
+> Want a shortcut to success? Grab the [All-in-One Package for just $19.99](https://www.summer2026internships.com#all-in-one-package)
 
 Made with 💚 by students, for students.  
 
