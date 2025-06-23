@@ -52,15 +52,15 @@ Contributions are welcome! You can:
 
 <!-- START_TABLE -->
 | Company | Role | Location | Link |
-| --- | --- | --- | --- |
-| Green Planet Solutions | None | Seattle, WA | [Apply](https://example7088.com/apply3) |
-| Apple | None | San Francisco, CA  | [Apply](https://www.apple.com) |
-| None | None | None | [Apply](www.google.com) |
-| Yummy Bites Co. | None | Austin, TX | [Apply](https://exampleb084.com/apply4) |
-| Epic Events | None | Chicago, IL | [Apply](https://example7b75.com/apply6) |
-| Magic Marketing Inc. | None | New York, NY | [Apply](https://example098f.com/apply1) |
-| Virtual Ventures | None | San Francisco, CA | [Apply](https://examplec8c6.com/apply2) |
-| InnovateAI | None | Boston, MA | [Apply](https://example3082.com/apply5) |
+|---------|------|----------|------|
+| ABB | None | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
+| Apple | None | San Francisco, CA  | [Apply Here](https://www.apple.com) |
+| Epic Events | None | Chicago, IL | [Apply Here](https://example7b75.com/apply6) |
+| Green Planet Solutions | None | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
+| InnovateAI | None | Boston, MA | [Apply Here](https://example3082.com/apply5) |
+| Magic Marketing Inc. | None | New York, NY | [Apply Here](https://example098f.com/apply1) |
+| Virtual Ventures | None | San Francisco, CA | [Apply Here](https://examplec8c6.com/apply2) |
+| Yummy Bites Co. | None | Austin, TX | [Apply Here](https://exampleb084.com/apply4) |
 <!-- END_TABLE -->
 
 ## 👀 Looking for More?
