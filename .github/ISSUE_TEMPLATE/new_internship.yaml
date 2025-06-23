@@ -1,6 +1,6 @@
 name: ✨ New Internship
 description: Add a new internship to the list
-title: "[Internship] Company Name - Role"
+title: "[Internship] Company Name"
 labels: [internship, contribution]
 body:
   - type: input
@@ -8,14 +8,6 @@ body:
     attributes:
       label: Company Name
       placeholder: e.g., Google
-    validations:
-      required: true
-
-  - type: input
-    id: role
-    attributes:
-      label: Internship Role
-      placeholder: e.g., Software Engineering Intern
     validations:
       required: true
 
@@ -35,8 +27,64 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: school_email
+    attributes:
+      label: Your School Email (.edu)
+      placeholder: e.g., jdoe@university.edu
+    validations:
+      required: true
+
+  - type: input
+    id: industry
+    attributes:
+      label: Industry
+      placeholder: e.g., Software Engineering, Data Science, Marketing
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source of Posting
+      placeholder: e.g., Official Career Page, Handshake, LinkedIn
+    validations:
+      required: true
+
+  - type: input
+    id: date_posted
+    attributes:
+      label: Date Posted
+      placeholder: e.g., 2025-06-14
+    validations:
+      required: false
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Application Deadline
+      placeholder: e.g., 2025-07-15
+    validations:
+      required: false
+
+  - type: input
+    id: salary
+    attributes:
+      label: Salary / Hourly Rate (Optional)
+      placeholder: e.g., $35/hour or N/A
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description or Role Title
+      placeholder: Short summary of the position
+    validations:
+      required: false
+
   - type: textarea
     id: notes
     attributes:
       label: Additional Notes (Optional)
-      placeholder: Sponsorship status, deadline, U.S. citizenship required, etc.
+      placeholder: Sponsorship status, U.S. citizenship required, hybrid info, etc.
