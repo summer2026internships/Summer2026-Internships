@@ -25,7 +25,7 @@ jobs:
           "https://api.airtable.com/v0/${{ secrets.AIRTABLE_BASE_ID }}/${{ secrets.AIRTABLE_TABLE_NAME }}?maxRecords=1000" \
           | jq '.records | map({
               company: .fields.Company,
-              role: .fields.Role,
+              role: .fields.Title,
               location: .fields.Location,
               link: .fields.Link
             })' > .github/scripts/listings.json
