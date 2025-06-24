@@ -22,11 +22,12 @@ Browse 250+ active internship opportunities by category updated every minute!
 <!-- START_TABLE -->
 | Company | Role | Location | Link |
 |---------|------|----------|------|
-| ABB | 2025 Summer Internship - Engineering | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
+| ABB | 2026 Summer Internship - Engineering | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | Epic Events | Event Planning Prodigy Intern | Chicago, IL | [Apply Here](https://example7b75.com/apply6) |
 | Green Planet Solutions | Eco-Warrior Intern | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
 | InnovateAI | AI Trendsetter Intern | Boston, MA | [Apply Here](https://example3082.com/apply5) |
+| Lensa | Accounting Internship Summer 2026  | Wayne, PA | [Apply Here](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) |
 | Magic Marketing Inc. | Social Media Wizard Intern | New York, NY | [Apply Here](https://example098f.com/apply1) |
 | Virtual Ventures | VR Adventure Guide Intern | San Francisco, CA | [Apply Here](https://examplec8c6.com/apply2) |
 | Yummy Bites Co. | Foodie Content Creator Intern | Austin, TX | [Apply Here](https://exampleb084.com/apply4) |
