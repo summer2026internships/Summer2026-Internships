@@ -24,11 +24,18 @@ Browse 250+ active internship opportunities by category updated every minute!
 |---------|------|----------|------|
 | ABB | 2026 Summer Internship - Engineering | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
+| BlackRock  | 2026 Summer Internship Program - AMERS | Albany, New York | [Apply Here](https://careers.blackrock.com/job/-/-/45831/78311026912?source=LinkedIn) |
 | Epic Events | Event Planning Prodigy Intern | Chicago, IL | [Apply Here](https://example7b75.com/apply6) |
 | Green Planet Solutions | Eco-Warrior Intern | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
 | InnovateAI | AI Trendsetter Intern | Boston, MA | [Apply Here](https://example3082.com/apply5) |
 | Lensa | Accounting Internship Summer 2026  | Wayne, PA | [Apply Here](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) |
+| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255758083) |
+| Lensa | 2026 Wealth & Investment Management Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255755110) |
+| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Chicago, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4255748733) |
+| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Boston, MA | [Apply Here](https://www.linkedin.com/jobs/view/4255748618) |
 | Magic Marketing Inc. | Social Media Wizard Intern | New York, NY | [Apply Here](https://example098f.com/apply1) |
+| Phamily | Strategic Finance & Ops Intern | New York, NY | [Apply Here](https://www.linkedin.com/jobs/view/strategic-finance-ops-intern-at-phamily-4256017823/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| The D. E. Shaw Group | Quantitative Analyst Intern (New York) – Summer 2026 | New York | [Apply Here](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2026-5519?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Virtual Ventures | VR Adventure Guide Intern | San Francisco, CA | [Apply Here](https://examplec8c6.com/apply2) |
 | Yummy Bites Co. | Foodie Content Creator Intern | Austin, TX | [Apply Here](https://exampleb084.com/apply4) |
 <!-- END_TABLE -->
