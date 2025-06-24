@@ -6,7 +6,8 @@ with open('.github/scripts/listings.json', 'r') as f:
     listings = json.load(f)
 
 # Sort (optional)
-listings.sort(key=lambda x: x['company'].lower())
+listings = [x for x in listings if x.get("company")]  # Remove items with no company
+listings.sort(key=lambda x: x["company"].lower())
 
 # Generate markdown
 table_header = "| Company | Role | Location | Link |\n|---------|------|----------|------|\n"
