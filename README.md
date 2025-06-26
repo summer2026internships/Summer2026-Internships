@@ -22,6 +22,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 <!-- START_TABLE -->
 | Company | Role | Location | Link |
 |---------|------|----------|------|
+| 2020 Companies | Part-Time Wireless Sales | Demopolis, AL | [Apply Here](https://www.linkedin.com/jobs/view/4256346486) |
 | ABB | 2026 Summer Internship - Engineering | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | BlackRock  | 2026 Summer Internship Program - AMERS | Albany, New York | [Apply Here](https://careers.blackrock.com/job/-/-/45831/78311026912?source=LinkedIn) |
@@ -40,9 +41,13 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Lensa | Accounting Internship Summer 2026  | Wayne, PA | [Apply Here](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) |
 | Lensa | 2026 Summer Internship Program - Investment Banking  | Baltimore, MD | [Apply Here](https://www.linkedin.com/jobs/view/4257296455) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257400067) |
+| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257725823) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255758083) |
+| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Chicago, IL | [Apply Here](https://www.linkedin.com/jobs/view/4257730229) |
 | Lensa | 2026 Wealth & Investment Management Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255755110) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Chicago, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4255748733) |
+| Lensa | 2026 Wealth & Investment Management Summer Internship - Early Careers  | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4257725727) |
+| Lensa | 2026 Summer Internship Program - Investment Banking | Baltimore, MD | [Apply Here](https://www.linkedin.com/jobs/view/4257729280) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Boston, MA | [Apply Here](https://www.linkedin.com/jobs/view/4255748618) |
 | Magic Marketing Inc. | Social Media Wizard Intern | New York, NY | [Apply Here](https://example098f.com/apply1) |
 | MaloneBailey, LLP | 2026 Summer Accounting Firm Internship | Houston, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257247065) |
@@ -57,13 +62,19 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4256850790) |
 | Wells Fargo | 2026 Wealth & Investment Management Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256849831) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256850801) |
+| Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers  | Chandler, AZ | [Apply Here](https://www.linkedin.com/jobs/view/4252095097) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4256855358) |
 | Wells Fargo | 2026 COO Chief Administrative Office Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256850691) |
+| Wells Fargo | 2026 Audit Summer Internship - Early Careers | West Des Moines, IA  | [Apply Here](https://www.linkedin.com/jobs/view/4252090625) |
+| Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4252094186) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Boston, MA | [Apply Here](https://www.linkedin.com/jobs/view/4256849899) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Chandler, AZ | [Apply Here](https://www.linkedin.com/jobs/view/4256852517) |
 | Wells Fargo | 2026 Wealth & Investment Management Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4256856288) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4256853515) |
+| Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers  | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4252089670) |
+| Wells Fargo | 2026 COO Chief Administrative Office Summer Internship - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4252094190) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Chicago, IL | [Apply Here](https://www.linkedin.com/jobs/view/4256849794) |
+| Wells Fargo | 2026 Audit Summer Internship - Early Careers | Philadelphia, PA | [Apply Here](https://www.linkedin.com/jobs/view/4252091377) |
 | Wells Fargo | 2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4256850712) |
 | Wells Fargo | 2026 Audit Summer Internship - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256854289) |
 | Yummy Bites Co. | Foodie Content Creator Intern | Austin, TX | [Apply Here](https://exampleb084.com/apply4) |
