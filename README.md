@@ -25,6 +25,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | ABB | 2026 Summer Internship - Engineering | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | BlackRock  | 2026 Summer Internship Program - AMERS | Albany, New York | [Apply Here](https://careers.blackrock.com/job/-/-/45831/78311026912?source=LinkedIn) |
+| Enterprise | Sales Management Trainee Intern-Fall- Lithia Springs | Lithia Springs, GA | [Apply Here](https://www.linkedin.com/jobs/view/4255559163) |
 | Epic Events | Event Planning Prodigy Intern | Chicago, IL | [Apply Here](https://example7b75.com/apply6) |
 | Green Planet Solutions | Eco-Warrior Intern | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
 | InnovateAI | AI Trendsetter Intern | Boston, MA | [Apply Here](https://example3082.com/apply5) |
@@ -34,6 +35,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Chicago, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4255748733) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Boston, MA | [Apply Here](https://www.linkedin.com/jobs/view/4255748618) |
 | Magic Marketing Inc. | Social Media Wizard Intern | New York, NY | [Apply Here](https://example098f.com/apply1) |
+| Menards | Management Internship | Morris, IL | [Apply Here](https://www.linkedin.com/jobs/view/4256008958) |
 | Phamily | Strategic Finance & Ops Intern | New York, NY | [Apply Here](https://www.linkedin.com/jobs/view/strategic-finance-ops-intern-at-phamily-4256017823/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | The D. E. Shaw Group | Quantitative Analyst Intern (New York) – Summer 2026 | New York | [Apply Here](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2026-5519?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Virtual Ventures | VR Adventure Guide Intern | San Francisco, CA | [Apply Here](https://examplec8c6.com/apply2) |
