@@ -1,71 +1,21 @@
-# 🤝 Contributing to the Summer 2026 Internship List
+## 🎉 Contributor Reward Program
 
-Thank you for helping support students in their internship journey! This project aims to crowdsource and maintain a **high-quality list of Summer 2026 internships** across tech and related fields.
+We value your help in curating Summer 2026 internships!  
+➡️ For each **valid and approved internship post** submitted via GitHub Issues, you'll receive **$1 USD**.
 
-This initiative is inspired by open-source contributions from Rethinkjobs, and the broader internship community.
+### ✅ How to Participate
+- Submit via this [Issue Template](https://github.com/summer2026internships/Summer2026-Internships/issues/new?template=new_internship.yaml)
+- Make sure it's:
+  - Not a duplicate
+  - From a real company site or job board
+  - Has complete fields (company, title, location, link)
 
-## ✅ What Internships Can Be Added?
+### 💸 How to Get Paid
+- Add your **PayPal, Venmo, or UPI ID** at the bottom of your submission.
+- Once the listing is approved and merged, we’ll process payments weekly.
 
-We welcome internship listings that meet the following criteria:
-
-- 🧠 Roles in:
-  - Software Engineering / Computer Science
-  - Data Science / AI / ML
-  - Product Management
-  - Design / UI/UX
-  - Cybersecurity
-  - Quantitative Finance
-  - Other tech-related internships
-
-- 🌎 Locations:
-  - United States 🇺🇸
-  - Canada 🇨🇦
-  - Remote 🌐
-
-- ❗ The role **must not already exist** in the list.
-
-
-## ✍️ How to Contribute
-
-To add a new internship role, follow these simple steps:
-
-1. **Create a New Issue**  
-   Go to [Issues](https://github.com/summer2026internships/Summer2026-Internships/issues/new) and select **“New Internship”** as the template.
-
-2. **Fill in the Details**  
-   Include:
-   - Company Name  
-   - Position Title  
-   - Location (City or “Remote”)  
-   - Application Link  
-   - Any additional notes (e.g. sponsorship, citizenship requirements)
-
-3. **Submit**  
-   Submit the issue and we’ll review it. Once approved, it’ll be automatically added to the internship table!
-
-> Please submit a **separate issue for each unique internship role**, even if they’re from the same company.
-
-
-## 🛠️ Automatic README Updates
-
-Once approved, your internship entry will be added to the main list in the following format:
-
-```markdown
-| Company | Role | Location | Apply | Date Posted |
-|---------|------|----------|:-----:|:-----------:|
-| **[Spotify](https://www.spotifyjobs.com)** | Data Science Intern | Remote | 🔗 [Apply](https://...) | June 2025 |
-
-## 💚 Contributor Rewards
-
-To thank our contributors, we offer:
-
-- 🎁 Free access to the All-in-One Toolkit ( Email us your github username and email to summer2026internships@gmail.com )
-- 🌟 Contributor recognition on our site & GitHub
-- 🎓 Entry into monthly giveaways (books, merch, FAANG mock interviews)
-
-To be eligible, just submit a valid internship role via [New Issue](https://github.com/summer2026internships/Summer2026-Internships/issues/new).
-
-Thanks for helping students succeed!
-
-Let’s make internship hunting easier for everyone. Thanks for contributing 💚
-— https://summer2026internships.com
+### 🎁 Bonus
+Top 5 contributors each month will get **additional rewards** like:
+- Premium resume templates
+- LinkedIn cold DM scripts
+- Personal shout-outs in the README!
