@@ -1,5 +1,4 @@
-# ☀️ Summer 2026 Internships – Curated U.S. Opportunities
-
+# ☀️ Summer 2026 Internships USA
 Welcome! This open-source repository is dedicated to helping students track and apply for **Summer 2026 internships** across **Software Engineering, Data, AI/ML, Product, Design, Marketing, Cybersecurity**, and more.
 
 This job repository provides hourly updates and tracks the latest internship openings in the United States from multiple sources including 200K+ company career sites and major job boards. This list is maintained by [Rethinkjobs](https://www.summer2026internships.com).
