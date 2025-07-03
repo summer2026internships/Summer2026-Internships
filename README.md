@@ -29,7 +29,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Ansys | Spring 2026 Co-op, Software Development (Bachelors) | Canonsburg, PA | [Apply Here](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | AT&T | Field Sales Representative  | Michigan City, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4255409927) |
-| AT&T | Retail Sales Consultant Trussville Store | Birmingham, AL | [Apply Here](https://www.linkedin.com/jobs/view/4256566727) |
 | Baffinland | Systems Developer Intern | United States | [Apply Here](https://jobright.ai/jobs/info/685cda8ded8aba2d023bc166?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Bank of America | Global Technology Summer Analyst 2026 - Business Analyst | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | [Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) |
 | Bending Spoons | Software Engineer Intern | Berne, OH | [Apply Here](https://jobright.ai/jobs/info/685d4945fe4937d00d0c96ad?utm_source=1099&utm_campaign=Software%20Engineer) |
@@ -59,7 +58,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | J.B. Hunt Transport Services, Inc. | Manager Trainee  | Mountain Top, PA | [Apply Here](https://www.linkedin.com/jobs/view/4256921717) |
 | JPMorganChase | Relationship Banker - Westbury Square (New Build) | Huntsville, AL | [Apply Here](https://www.linkedin.com/jobs/view/4260270792) |
 | JPMorganChase | Part Time (30 Hours) Associate Banker, Cumberland and Lawrence Branch, Norridge, IL Bilingual Polish Required | Norridge, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259000077) |
-| JPMorganChase | Relationship Banker - Iowa-South Dakota Market  | Des Moines, IA | [Apply Here](https://www.linkedin.com/jobs/view/4260270714) |
 | K&K Supply | Counter Sales | Fenton, MO  | [Apply Here](https://www.linkedin.com/jobs/view/4258712995) |
 | Landis+Gyr | Fall Intern - Technical Implementation Engineer | Alpharetta, GA | [Apply Here](https://jobright.ai/jobs/info/685b4cbfba3e4e91f0630095?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Lensa | 2026 Summer Internship Program - AMERS | San Francisco, CA | [Apply Here](https://www.linkedin.com/jobs/view/4257402148) |
@@ -85,6 +83,8 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Parkwood Behavioral Health System | Receptionist- Weekend (Part-Time) | Olive Branch, MS | [Apply Here](https://www.linkedin.com/jobs/view/4259293670) |
 | Penske Truck Leasing | Sales and Operations Management Trainee  | Louisville, KY | [Apply Here](https://www.linkedin.com/jobs/view/4256921700) |
 | PJ Fitzpatrick, LLC | Junior Bath Apprentice | Pittsburgh, PA | [Apply Here](https://www.linkedin.com/jobs/view/4259295610) |
+| PORSCHE CENTRE LEBANON | Operations & Product Development Intern | Costa Mesa, CA | [Apply Here](https://www.linkedin.com/jobs/view/4256924637) |
+| PwC | Corporate Finance Intern - Summer 2026 - Women's Consulting Experience | New York, NY | [Apply Here](https://onmogul.com/jobs/corporate-finance-intern-summer-2026-women-s-consulting-experience?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | quarkbooker | Digital Marketing Internship | Guernsey, WY  | [Apply Here](https://www.linkedin.com/jobs/view/4259278738) |
 | Radiological Society of North America (RSNA) | Intern: Corporate Relations & Exhibition Services | Oak Brook, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259411590) |
 | Red Bull | Student Marketeer - North Central College | Woodridge, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259427123) |
@@ -98,6 +98,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | The D. E. Shaw Group | Fundamental Research Analyst Intern (New York) - Summer 2026 | New York, NY | [Apply Here](https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | The D. E. Shaw Group | Quantitative Analyst Intern (New York) – Summer 2026 | New York | [Apply Here](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2026-5519?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | The D. E. Shaw Group | Fundamental Research Analyst Intern (New York) - Summer 2026 | New York, NY | [Apply Here](https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| TieTalent | Client Services Part Time Internship | Council Bluffs, IA | [Apply Here](https://www.linkedin.com/jobs/view/4260547580) |
 | Toshiba Global Commerce Solutions | Strategy Analysis Intern | Durham, NC | [Apply Here](https://www.linkedin.com/jobs/view/4257971983) |
 | Total Quality Logistics | Sales Representative - Paid Relocation to Cincinnati - $2500 SIGN-ON BONUS  | Lincoln, NE | [Apply Here](https://www.linkedin.com/jobs/view/4259439890) |
 | Total Quality Logistics | Sales Representative - Paid Relocation to Cincinnati - $2500 SIGN-ON BONUS  | Stillwater, OK | [Apply Here](https://www.linkedin.com/jobs/view/4259437979) |
@@ -107,6 +108,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Vanguard | College to Corporate Internship - Risk & Security - Engineer (NC) | Charlotte, NC | [Apply Here](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed37c?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Vanguard | College to Corporate Internship - Investment Systems (PA) | Malvern, PA | [Apply Here](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed30d?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Victra - Verizon Authorized Retailer | Sales Consultant | Redlands, CA | [Apply Here](https://www.linkedin.com/jobs/view/4256230457) |
+| We Are Legal Revolution | Insurance Defense Associate | Up to $160K + Bonus | | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4257180000) |
 | Wells Fargo | 2026 Corporate Risk Summer Internship - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4252090624) |
 | Wells Fargo | 2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers | West Des Moines, IA | [Apply Here](https://www.linkedin.com/jobs/view/4252094228) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4256850790) |
@@ -118,7 +120,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Wells Fargo | 2026 COO Chief Administrative Office Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256850691) |
 | Wells Fargo | 2026 Audit Summer Internship - Early Careers | West Des Moines, IA  | [Apply Here](https://www.linkedin.com/jobs/view/4252090625) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4252094186) |
-| Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Boston, MA | [Apply Here](https://www.linkedin.com/jobs/view/4256849899) |
 | Yummy Bites Co. | Foodie Content Creator Intern | Austin, TX | [Apply Here](https://exampleb084.com/apply4) |
 <!-- END_TABLE -->
 
