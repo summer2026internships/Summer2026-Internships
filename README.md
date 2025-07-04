@@ -32,7 +32,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | AT&T | Field Sales Representative  | Michigan City, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4255409927) |
 | AutoNation | Sales Associate Equity Mining -AutoNation Toyota Leesburg | Leesburg, VA | [Apply Here](https://www.linkedin.com/jobs/view/4257664714) |
-| Baffinland | Systems Developer Intern | United States | [Apply Here](https://jobright.ai/jobs/info/685cda8ded8aba2d023bc166?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Bank of America | Global Technology Summer Analyst 2026 - Business Analyst | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | [Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) |
 | Bank Of America | Bank of America is hiring: Corporate Audit Summer 2026 Analyst in Plano | Plano, TX | [Apply Here](https://www.recruit.net/job/bank-america-is-corporate-audit-jobs/DCD7F31E3A451D14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Avon, IN | [Apply Here](https://www.linkedin.com/jobs/view/4261091049) |
@@ -66,7 +65,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Ivy Tech Community College | Federal Work Study - Website Development Intern | Anderson, IN | [Apply Here](https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c51f7?utm_source=1099&utm_campaign=Software%20Engineer) |
 | J.B. Hunt Transport Services, Inc. | Manager Trainee  | Mountain Top, PA | [Apply Here](https://www.linkedin.com/jobs/view/4256921717) |
 | JPMorganChase | Relationship Banker - Westbury Square (New Build) | Huntsville, AL | [Apply Here](https://www.linkedin.com/jobs/view/4260270792) |
-| JPMorganChase | Part Time (30 Hours) Associate Banker, Cumberland and Lawrence Branch, Norridge, IL Bilingual Polish Required | Norridge, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259000077) |
 | K&K Supply | Counter Sales | Fenton, MO  | [Apply Here](https://www.linkedin.com/jobs/view/4258712995) |
 | Landis+Gyr | Fall Intern - Technical Implementation Engineer | Alpharetta, GA | [Apply Here](https://jobright.ai/jobs/info/685b4cbfba3e4e91f0630095?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Lensa | 2026 Summer Internship Program - AMERS | San Francisco, CA | [Apply Here](https://www.linkedin.com/jobs/view/4257402148) |
@@ -97,6 +95,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Sigma | NYC Early Career Open House Event - Software Engineering New Grads and Interns | New York, NY | [Apply Here](https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Smart & Final | Part-time Associate (Meat) | Los Angeles, CA | [Apply Here](https://www.linkedin.com/jobs/view/4259400000) |
 | Snap-on | Regional Sales Engineer | Kansas City, MO | [Apply Here](https://www.linkedin.com/jobs/view/4259283397) |
+| Susquehanna International Group, LLP (SIG) | Sell Side Research Internship: Summer 2026 | Bala Cynwyd, PA | [Apply Here](https://careers.sig.com/job/9303/Sell-Side-Research-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Teall Sports & Entertainment | REVELxp - Hospitality Intern, Premium Field Suites, University of Cincinnati | Cincinnati, OH | [Apply Here](https://www.linkedin.com/jobs/view/4259418194) |
 | Ted Britt Ford Automotive Group | Service Porter (Entry Level) | Chantilly, VA | [Apply Here](https://www.linkedin.com/jobs/view/4260032989) |
 | Tesla | Tesla Advisor, Sales, Lexington | Louisville, KY | [Apply Here](https://www.linkedin.com/jobs/view/4261063597) |
@@ -117,6 +116,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256850801) |
 | Wells Fargo | 2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers | Phoenix, AZ  | [Apply Here](https://www.linkedin.com/jobs/view/4252092370) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers  | Chandler, AZ | [Apply Here](https://www.linkedin.com/jobs/view/4252095097) |
+| Wells Fargo | 2026 Audit Summer Internship - Early Careers - | Charlotte, NC | [Apply Here](https://www.snagajob.com/jobs/1125021743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4256855358) |
 | Wells Fargo | 2026 COO Chief Administrative Office Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256850691) |
 | Wells Fargo | 2026 Audit Summer Internship - Early Careers | West Des Moines, IA  | [Apply Here](https://www.linkedin.com/jobs/view/4252090625) |
