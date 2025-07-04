@@ -26,6 +26,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Acosta Group | Product Demonstrator Part Time | Sarasota, FL | [Apply Here](https://www.linkedin.com/jobs/view/4259298194) |
 | Actalent | Regional Sales Manager | St Louis, MO | [Apply Here](https://www.linkedin.com/jobs/view/4261377642) |
 | ADT | Sales Representative  | Westmont, IL | [Apply Here](https://www.linkedin.com/jobs/view/4261364163) |
+| Amazon | Software Development Engineer Intern | Boston, Seattle | [Apply Here](https://www.amazon.jobs/en/jobs/2878134/software-development-engineer-intern?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) |
 | Ansys | Spring 2026 Software Development Co-Op (BS) | Canonsburg, PA | [Apply Here](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f4?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Ansys | Spring 2026 Co-op, Software Development (Bachelors) | Canonsburg, PA | [Apply Here](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
@@ -76,7 +77,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Lensa | 2026 Corporate Risk Summer Internship, Workout - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4258447611) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257725823) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255758083) |
-| Lensa | 2026 Commercial Banking Summer Internship - Early Careers  | Chicago, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4258453389) |
 | Lidl US | Store Associate - Stonecrest, GA | Decatur, AL | [Apply Here](https://www.linkedin.com/jobs/view/4258949116) |
 | Magnera Corporation | Sr. Sales Director - Personal Care P&G | Evansville, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4261483690) |
 | Maher Duessel | Summer 2026 Audit Intern | Butler, AL,  | [Apply Here](https://www.recruit.net/job/summer-audit-intern-jobs/5CB5DC462D3901C1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
