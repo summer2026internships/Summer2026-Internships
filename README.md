@@ -26,17 +26,17 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Acosta Group | Product Demonstrator Part Time | Sarasota, FL | [Apply Here](https://www.linkedin.com/jobs/view/4259298194) |
 | Actalent | Regional Sales Manager | St Louis, MO | [Apply Here](https://www.linkedin.com/jobs/view/4261377642) |
 | ADT | Sales Representative  | Westmont, IL | [Apply Here](https://www.linkedin.com/jobs/view/4261364163) |
-| Amazon | Software Development Engineer Intern | Boston, Seattle | [Apply Here](https://www.amazon.jobs/en/jobs/2878134/software-development-engineer-intern?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) |
 | Ansys | Spring 2026 Software Development Co-Op (BS) | Canonsburg, PA | [Apply Here](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f4?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Ansys | Spring 2026 Co-op, Software Development (Bachelors) | Canonsburg, PA | [Apply Here](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | AT&T | Field Sales Representative  | Michigan City, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4255409927) |
+| AT&T | Bilingual Spanish Retail Sales Consultant - GREENBELT, MD (GREENBELT) | Greenbelt, MD  | [Apply Here](https://www.linkedin.com/jobs/view/4260953159) |
 | AutoNation | Sales Associate Equity Mining -AutoNation Toyota Leesburg | Leesburg, VA | [Apply Here](https://www.linkedin.com/jobs/view/4257664714) |
 | Bank of America | Global Technology Summer Analyst 2026 - Business Analyst | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | [Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) |
 | Bank Of America | Bank of America is hiring: Corporate Audit Summer 2026 Analyst in Plano | Plano, TX | [Apply Here](https://www.recruit.net/job/bank-america-is-corporate-audit-jobs/DCD7F31E3A451D14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Avon, IN | [Apply Here](https://www.linkedin.com/jobs/view/4261091049) |
+| BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Fairless Hills, PA | [Apply Here](https://www.linkedin.com/jobs/view/4262635755) |
 | Be Marketable | Manager Trainee | Arlington Heights, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4259573796) |
-| Bending Spoons | Software Engineer Intern | Berne, OH | [Apply Here](https://jobright.ai/jobs/info/685d4945fe4937d00d0c96ad?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Blue Link Wireless | Wireless Retail Sales Representative - AT&T Authorized Retailer  | Iuka, MS | [Apply Here](https://www.linkedin.com/jobs/view/4257227976) |
 | BMW of Pittsburgh | Parts Advisor | Pittsburgh, PA | [Apply Here](https://www.linkedin.com/jobs/view/4257978498) |
 | BNP Paribas | 2026 - Summer Analyst Internship - Global Markets | Miami, FL | [Apply Here](None) |
@@ -57,7 +57,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Educational Systems Federal Credit Union | Summer Intern Payment Processing Specialist- Mail Postings | Greenbelt, MD | [Apply Here](https://www.linkedin.com/jobs/view/4260287059) |
 | Enterprise | Sales Management Trainee Intern-Fall- Lithia Springs | Lithia Springs, GA | [Apply Here](https://www.linkedin.com/jobs/view/4255559163) |
 | Freddie Mac | Meet Freddie Mac's University Program: Summer 2026 Internship Program Spotlight | Iowa City, IA | [Apply Here](https://www.snagajob.com/jobs/1129932850?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| Freddie Mac | Meet Freddie Mac's University Program: Summer 2026 Internship Program Spotlight | Honolulu, HI | [Apply Here](https://www.snagajob.com/jobs/1129931856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| Garcia Automotive Group | SALES Garcia Honda is now HIRING | Albuquerque, NM | [Apply Here](https://www.linkedin.com/jobs/view/4262624058) |
 | Green Planet Solutions | Eco-Warrior Intern | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
 | HPM Building Supply | Retail, Inventory Management, and Merchandising Internship | Kahului, HI | [Apply Here](https://www.linkedin.com/jobs/view/4260421271) |
 | Hurley & Associates | Intern-Farm Marketing Consultant | Brookings, SD | [Apply Here](https://www.linkedin.com/jobs/view/4261052350) |
@@ -76,12 +76,12 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257725823) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255758083) |
 | Lidl US | Store Associate - Stonecrest, GA | Decatur, AL | [Apply Here](https://www.linkedin.com/jobs/view/4258949116) |
+| Lowe's Companies, Inc. | Full Time - Sales Specialist - Appliances - Day | Glenmont, NY | [Apply Here](https://www.linkedin.com/jobs/view/4261228100) |
 | Magnera Corporation | Sr. Sales Director - Personal Care P&G | Evansville, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4261483690) |
 | Maher Duessel | Summer 2026 Audit Intern | Butler, AL,  | [Apply Here](https://www.recruit.net/job/summer-audit-intern-jobs/5CB5DC462D3901C1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | MaloneBailey, LLP | 2026 Summer Accounting Firm Internship | Houston, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257247065) |
 | Maricopa Association of Governments (MAG) | IT Software Development Intern | Phoenix, AZ | [Apply Here](https://jobright.ai/jobs/info/685d219b13e97b6671e211e3?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Mattress Firm | Sleep Expert - Bilingual Sales | LaGrange, GA | [Apply Here](https://www.linkedin.com/jobs/view/4257648093) |
-| Mattress Firm | Sleep Expert - Bilingual Sales  | Conyers, GA | [Apply Here](https://www.linkedin.com/jobs/view/4257643447) |
 | MINI Česká republika | Vedoucí prodeje nových vozů BMW – Praha | AutoWallis | Praha, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257959873) |
 | Penske Truck Leasing | Sales and Operations Management Trainee  | Louisville, KY | [Apply Here](https://www.linkedin.com/jobs/view/4256921700) |
 | Penske Truck Leasing | Sales and Operations Management Trainee | Richmond, VA | [Apply Here](https://www.linkedin.com/jobs/view/4257628656) |
@@ -89,8 +89,8 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Radiological Society of North America (RSNA) | Intern: Corporate Relations & Exhibition Services | Oak Brook, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259411590) |
 | Red Bull | Student Marketeer - North Central College | Woodridge, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259427123) |
 | Regional Finance (Regional Management Corp.) | Branch Operations Intern | Stockton, CA | [Apply Here](https://www.linkedin.com/jobs/view/4257614071) |
-| Republic Finance | Branch Operations Intern  | Covington, LA | [Apply Here](https://www.linkedin.com/jobs/view/4261077166) |
 | Scott Clark Nissan | Automotive Sales (No Sundays - 5 day workweek) | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4260235174) |
+| SeaWorld Parks & Entertainment | Merchandise Sales Ambassador (Water Country USA) | Williamsburg, VA | [Apply Here](https://www.linkedin.com/jobs/view/4261223107) |
 | Shenzhen ANQI SHISHANG Articles Co., ltd. | 2026 Summer Accounting Firm Internship | Houston, TX | [Apply Here](https://www.linkedin.com/jobs/view/4255972776) |
 | Sigma | NYC Early Career Open House Event - Software Engineering New Grads and Interns | New York, NY | [Apply Here](https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Smart & Final | Part-time Associate (Meat) | Los Angeles, CA | [Apply Here](https://www.linkedin.com/jobs/view/4259400000) |
@@ -108,6 +108,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | UniFirst Corporation | Route Trainee - UniFirst  | West Palm Beach, FL | [Apply Here](https://www.linkedin.com/jobs/view/4260851237) |
 | Vanguard | College to Corporate Internship - Application Development (PA) | Malvern, PA | [Apply Here](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Victra - Verizon Authorized Retailer | Sales Consultant | Redlands, CA | [Apply Here](https://www.linkedin.com/jobs/view/4256230457) |
+| Walmart | (USA) Coach/Ops Mgr Trainee  | Grand Island, NE | [Apply Here](https://www.linkedin.com/jobs/view/4258858409) |
 | We Are Legal Revolution | Insurance Defense Associate | Up to $160K + Bonus | | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4257180000) |
 | Wells Fargo | 2026 Corporate Risk Summer Internship - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4252090624) |
 | Wells Fargo | 2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers | West Des Moines, IA | [Apply Here](https://www.linkedin.com/jobs/view/4252094228) |
@@ -120,7 +121,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4256855358) |
 | Wells Fargo | 2026 COO Chief Administrative Office Summer Internship - Early Careers  | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4256850691) |
 | Wells Fargo | 2026 Audit Summer Internship - Early Careers | West Des Moines, IA  | [Apply Here](https://www.linkedin.com/jobs/view/4252090625) |
-| Wells Fargo | 2026 Commercial Banking Summer Internship - Early Careers | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4252094186) |
 <!-- END_TABLE -->
 
 ## ⚡ Key Resources for Applicants
