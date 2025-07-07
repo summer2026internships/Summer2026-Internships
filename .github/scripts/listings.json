@@ -468,6 +468,12 @@
     "link": "https://www.linkedin.com/jobs/view/4257971983"
   },
   {
+    "company": null,
+    "role": null,
+    "location": null,
+    "link": null
+  },
+  {
     "company": "SeaWorld Parks & Entertainment",
     "role": "Merchandise Sales Ambassador (Water Country USA)",
     "location": "Williamsburg, VA",
@@ -592,11 +598,5 @@
     "role": "Federal Work Study - Website Development Intern",
     "location": "Anderson, IN",
     "link": "https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c51f7?utm_source=1099&utm_campaign=Software%20Engineer"
-  },
-  {
-    "company": "Lowe's Companies, Inc.",
-    "role": "Full Time - Sales Specialist - Appliances - Day",
-    "location": "Glenmont, NY",
-    "link": "https://www.linkedin.com/jobs/view/4261228100"
   }
 ]
