@@ -58,6 +58,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Enterprise | Sales Management Trainee Intern-Fall- Lithia Springs | Lithia Springs, GA | [Apply Here](https://www.linkedin.com/jobs/view/4255559163) |
 | Freddie Mac | Meet Freddie Mac's University Program: Summer 2026 Internship Program Spotlight | Iowa City, IA | [Apply Here](https://www.snagajob.com/jobs/1129932850?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Garcia Automotive Group | SALES Garcia Honda is now HIRING | Albuquerque, NM | [Apply Here](https://www.linkedin.com/jobs/view/4262624058) |
+| GE Vernova | GE Vernova Digital Technology Internship - Summer 2026 | Atlanta, GA | [Apply Here](https://careers.gevernova.com/global/en/job/GVXGVWGLOBALR5015147EXTERNALENGLOBAL/%7B%7BoneTrust%7D%7D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Green Planet Solutions | Eco-Warrior Intern | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
 | HPM Building Supply | Retail, Inventory Management, and Merchandising Internship | Kahului, HI | [Apply Here](https://www.linkedin.com/jobs/view/4260421271) |
 | Hurley & Associates | Intern-Farm Marketing Consultant | Brookings, SD | [Apply Here](https://www.linkedin.com/jobs/view/4261052350) |
