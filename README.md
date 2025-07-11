@@ -37,15 +37,16 @@ Browse 250+ active internship opportunities by category updated every minute!
 | BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Avon, IN | [Apply Here](https://www.linkedin.com/jobs/view/4261091049) |
 | BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Fairless Hills, PA | [Apply Here](https://www.linkedin.com/jobs/view/4262635755) |
 | Be Marketable | Manager Trainee | Arlington Heights, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4259573796) |
+| Blue Bolt Partners | Sales Intern in Private Equity | United States | [Apply Here](https://www.linkedin.com/jobs/view/4264751576) |
 | Blue Link Wireless | Wireless Retail Sales Representative - AT&T Authorized Retailer  | Iuka, MS | [Apply Here](https://www.linkedin.com/jobs/view/4257227976) |
 | BMW of Pittsburgh | Parts Advisor | Pittsburgh, PA | [Apply Here](https://www.linkedin.com/jobs/view/4257978498) |
 | BNP Paribas | 2026 - Summer Analyst Internship - Global Markets | Miami, FL | [Apply Here](None) |
 | BNP Paribas | 2026 - Summer Analyst Internship - Global Markets | Miami, FL  | [Apply Here](None) |
 | Bombardier | Quality Assurance Intern | Red Oak, TX | [Apply Here](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5d52?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Bommarito Audi West County | Sales Specialist | Ellisville, MO | [Apply Here](https://www.linkedin.com/jobs/view/4257351674) |
-| Briggs Auto Group | Automotive Parts Advisor | Manhattan, KS | [Apply Here](https://www.linkedin.com/jobs/view/4258986108) |
 | Chartwells Higher Education Dining Services | Field Marketing Intern, Chartwells Higher Ed / University of North Carolina | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4261076817) |
 | Chipotle Mexican Grill | Crew Member | Bourbonnais, IL | [Apply Here](https://www.linkedin.com/jobs/view/4260011583) |
+| Christian Brothers Automotive Corporation | Automotive Guest Relations Specialist | Weekends Off  | Barrington, IL | [Apply Here](https://www.linkedin.com/jobs/view/4264259894) |
 | Citadel | Software Engineer, Intern (Summer 2026) | Chicago | [Apply Here](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) |
 | City of Santa Rosa | STUDENT INTERN- PROPERTY APPRAISER | Milton, FL  | [Apply Here](https://www.linkedin.com/jobs/view/4256463662) |
 | CohnReznick | Tax Summer 2026 Internship | Boca Raton, FL | [Apply Here](https://www.linkedin.com/jobs/view/4206598707) |
@@ -72,8 +73,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257400067) |
 | Lensa | Intern - Supply Chain | Hacienda Heights, CA | [Apply Here](https://www.linkedin.com/jobs/view/4259433026) |
 | Lensa | 2026 Corporate Risk Summer Internship, Workout - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4258447611) |
-| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257725823) |
-| Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Minneapolis, MN | [Apply Here](https://www.linkedin.com/jobs/view/4255758083) |
+| Lensa | Intern, Commercial Strategy (Summer 2026) | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4264706827) |
 | Lidl US | Store Associate - Stonecrest, GA | Decatur, AL | [Apply Here](https://www.linkedin.com/jobs/view/4258949116) |
 | Lowe's Companies, Inc. | Retail Sales – Part Time  | Chicago, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4264218466) |
 | Magnera Corporation | Sr. Sales Director - Personal Care P&G | Evansville, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4261483690) |
@@ -107,7 +107,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | UniFirst Corporation | Route Trainee - UniFirst  | West Palm Beach, FL | [Apply Here](https://www.linkedin.com/jobs/view/4260851237) |
 | Vanguard | College to Corporate Internship - Application Development (PA) | Malvern, PA | [Apply Here](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Victra - Verizon Authorized Retailer | Sales Consultant | Redlands, CA | [Apply Here](https://www.linkedin.com/jobs/view/4256230457) |
-| Walmart | (USA) Coach/Ops Mgr Trainee | Ticonderoga, NY | [Apply Here](None) |
+| Walmart | (USA) Coach/Ops Mgr Trainee | Ticonderoga, NY | [Apply Here](https://www.linkedin.com/jobs/view/4260781578) |
 | Walmart | (USA) Coach/Ops Mgr Trainee  | Grand Island, NE | [Apply Here](https://www.linkedin.com/jobs/view/4258858409) |
 | We Are Legal Revolution | Insurance Defense Associate | Up to $160K + Bonus | | Atlanta, GA | [Apply Here](https://www.linkedin.com/jobs/view/4257180000) |
 | Wells Fargo | 2026 Corporate Risk Summer Internship - Early Careers | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4252090624) |
