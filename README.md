@@ -31,6 +31,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | AT&T | Field Sales Representative  | Michigan City, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4255409927) |
 | AT&T | Bilingual Spanish Retail Sales Consultant - GREENBELT, MD (GREENBELT) | Greenbelt, MD  | [Apply Here](https://www.linkedin.com/jobs/view/4260953159) |
+| ATPCO | Data Science Intern at ATPCO Dulles, VA | Dulles | [Apply Here](https://aecliving.com/jobs/job/data-science-intern-at-atpco-dulles-va-WCs0UUNFc1RGQlVFM21CZ3BMSGlsWkNUL2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | AutoNation | Sales Associate Equity Mining -AutoNation Toyota Leesburg | Leesburg, VA | [Apply Here](https://www.linkedin.com/jobs/view/4257664714) |
 | Bank of America | Global Technology Summer Analyst 2026 - Business Analyst | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | [Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) |
 | Bank Of America | Bank of America is hiring: Corporate Audit Summer 2026 Analyst in Plano | Plano, TX | [Apply Here](https://www.recruit.net/job/bank-america-is-corporate-audit-jobs/DCD7F31E3A451D14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -87,7 +88,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | PJ Fitzpatrick, LLC | Junior Bath Apprentice | Pittsburgh, PA | [Apply Here](https://www.linkedin.com/jobs/view/4259295610) |
 | Radiological Society of North America (RSNA) | Intern: Corporate Relations & Exhibition Services | Oak Brook, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259411590) |
 | Red Bull | Student Marketeer - North Central College | Woodridge, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259427123) |
-| Regional Finance (Regional Management Corp.) | Branch Operations Intern | Stockton, CA | [Apply Here](https://www.linkedin.com/jobs/view/4257614071) |
 | Scott Clark Nissan | Automotive Sales (No Sundays - 5 day workweek) | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4260235174) |
 | SeaWorld Parks & Entertainment | Merchandise Sales Ambassador (Water Country USA) | Williamsburg, VA | [Apply Here](https://www.linkedin.com/jobs/view/4261223107) |
 | Shenzhen ANQI SHISHANG Articles Co., ltd. | 2026 Summer Accounting Firm Internship | Houston, TX | [Apply Here](https://www.linkedin.com/jobs/view/4255972776) |
