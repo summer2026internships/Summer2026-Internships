@@ -22,7 +22,6 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Company | Role | Location | Link |
 |---------|------|----------|------|
 | 2020 Companies | Part-Time Wireless Sales | Demopolis, AL | [Apply Here](https://www.linkedin.com/jobs/view/4256346486) |
-| ABB | 2026 Summer Internship - Engineering | Hackettstown, NJ | [Apply Here](https://www.linkedin.com/jobs/view/4255143091) |
 | Acosta Group | Product Demonstrator Part Time | Sarasota, FL | [Apply Here](https://www.linkedin.com/jobs/view/4259298194) |
 | Actalent | Regional Sales Manager | St Louis, MO | [Apply Here](https://www.linkedin.com/jobs/view/4261377642) |
 | ADT | Sales Representative  | Westmont, IL | [Apply Here](https://www.linkedin.com/jobs/view/4261364163) |
@@ -30,13 +29,12 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Ansys | Spring 2026 Co-op, Software Development (Bachelors) | Canonsburg, PA | [Apply Here](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4f0?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Apple | Machine Learning Intern | San Francisco, CA  | [Apply Here](https://www.apple.com) |
 | AT&T | Field Sales Representative  | Michigan City, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4255409927) |
-| AT&T | Bilingual Spanish Retail Sales Consultant - GREENBELT, MD (GREENBELT) | Greenbelt, MD  | [Apply Here](https://www.linkedin.com/jobs/view/4260953159) |
 | AutoNation | Sales Associate Equity Mining -AutoNation Toyota Leesburg | Leesburg, VA | [Apply Here](https://www.linkedin.com/jobs/view/4257664714) |
 | Bank of America | Global Technology Summer Analyst 2026 - Business Analyst | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | [Apply Here](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) |
-| Bank Of America | Bank of America is hiring: Corporate Audit Summer 2026 Analyst in Plano | Plano, TX | [Apply Here](https://www.recruit.net/job/bank-america-is-corporate-audit-jobs/DCD7F31E3A451D14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Avon, IN | [Apply Here](https://www.linkedin.com/jobs/view/4261091049) |
 | BDS Connected Solutions, LLC. | Weekend Computer Sales and Training Expert | Fairless Hills, PA | [Apply Here](https://www.linkedin.com/jobs/view/4262635755) |
 | Be Marketable | Manager Trainee | Arlington Heights, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4259573796) |
+| Blackstone | 2026 Blackstone Credit and Insurance, Operations Summer Analyst  | New York, NY | [Apply Here](https://www.linkedin.com/jobs/view/4268418350) |
 | Blue Bolt Partners | Sales Intern in Private Equity | United States | [Apply Here](https://www.linkedin.com/jobs/view/4264751576) |
 | Blue Link Wireless | Wireless Retail Sales Representative - AT&T Authorized Retailer  | Iuka, MS | [Apply Here](https://www.linkedin.com/jobs/view/4257227976) |
 | BMW of Pittsburgh | Parts Advisor | Pittsburgh, PA | [Apply Here](https://www.linkedin.com/jobs/view/4257978498) |
@@ -44,15 +42,16 @@ Browse 250+ active internship opportunities by category updated every minute!
 | BNP Paribas | 2026 - Summer Analyst Internship - Global Markets | Miami, FL  | [Apply Here](None) |
 | Bombardier | Quality Assurance Intern | Red Oak, TX | [Apply Here](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5d52?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Bommarito Audi West County | Sales Specialist | Ellisville, MO | [Apply Here](https://www.linkedin.com/jobs/view/4257351674) |
+| Caterpillar Inc. | 2026 Engineering Internship Program- Metallurgical Engineering | Mossville, IL | [Apply Here](https://www.linkedin.com/jobs/view/4260034721) |
+| CBIZ | Tax Intern | Spring 2026 | West Palm Beach, FL | [Apply Here](https://www.linkedin.com/jobs/view/4128254731) |
 | Chartwells Higher Education Dining Services | Field Marketing Intern, Chartwells Higher Ed / University of North Carolina | Charlotte, NC  | [Apply Here](https://www.linkedin.com/jobs/view/4261076817) |
 | Chipotle Mexican Grill | Crew Member | Bourbonnais, IL | [Apply Here](https://www.linkedin.com/jobs/view/4260011583) |
 | Christian Brothers Automotive Corporation | Automotive Guest Relations Specialist | Weekends Off  | Barrington, IL | [Apply Here](https://www.linkedin.com/jobs/view/4264259894) |
 | Citadel | Software Engineer, Intern (Summer 2026) | Chicago | [Apply Here](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) |
-| City of Santa Rosa | STUDENT INTERN- PROPERTY APPRAISER | Milton, FL  | [Apply Here](https://www.linkedin.com/jobs/view/4256463662) |
-| CohnReznick | Tax Summer 2026 Internship | Boca Raton, FL | [Apply Here](https://www.linkedin.com/jobs/view/4206598707) |
 | Consumer Cellular, Inc. | Retail Wireless Sales Specialist  | Albuquerque, NM  | [Apply Here](https://www.linkedin.com/jobs/view/4256663077) |
 | Cox Automotive Inc. | Commercial Services Specialist II (Manheim) | Matteson, IL  | [Apply Here](https://www.linkedin.com/jobs/view/4258956361) |
 | Databricks | Senior Software Engineer - Database Engine Internals | Seattle, WA | [Apply Here](https://jobright.ai/jobs/info/67f145456748e9475cf095ba?utm_source=1099&utm_campaign=Software%20Engineer) |
+| Dewberry | Site/Civil Engineering Intern | Charlotte, NC | [Apply Here](https://www.linkedin.com/jobs/view/4267622486) |
 | Dickinson Center, Inc. | PHEAA Worker- Summer | Ridgway, PA | [Apply Here](https://www.linkedin.com/jobs/view/4258732259) |
 | Enterprise | Sales Management Trainee Intern-Fall- Lithia Springs | Lithia Springs, GA | [Apply Here](https://www.linkedin.com/jobs/view/4255559163) |
 | Five Rings | Summer Intern 2026 - Software Developer | New York | [Apply Here](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) |
@@ -60,8 +59,9 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Garcia Automotive Group | SALES Garcia Honda is now HIRING | Albuquerque, NM | [Apply Here](https://www.linkedin.com/jobs/view/4262624058) |
 | GE Vernova | GE Vernova Digital Technology Internship - Summer 2026 | Atlanta, GA | [Apply Here](https://careers.gevernova.com/global/en/job/GVXGVWGLOBALR5015147EXTERNALENGLOBAL/%7B%7BoneTrust%7D%7D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Green Planet Solutions | Eco-Warrior Intern | Seattle, WA | [Apply Here](https://example7088.com/apply3) |
+| Helix Electric | Project Engineer Intern - Spring 26  | Goodyear, AZ | [Apply Here](https://www.linkedin.com/jobs/view/4178650965) |
+| Howden Capital Markets & Advisory | 2026 Investment Banking Summer Analyst | New York, NY | [Apply Here](https://www.linkedin.com/jobs/view/4268285673) |
 | HPM Building Supply | Retail, Inventory Management, and Merchandising Internship | Kahului, HI | [Apply Here](https://www.linkedin.com/jobs/view/4260421271) |
-| Hurley & Associates | Intern-Farm Marketing Consultant | Brookings, SD | [Apply Here](https://www.linkedin.com/jobs/view/4261052350) |
 | Itential | Software Engineer Co-Op- Product | Atlanta, GA | [Apply Here](https://jobright.ai/jobs/info/685c0e4d4748340ad1dd8002?utm_source=1099&utm_campaign=Software%20Engineer) |
 | J.B. Hunt Transport Services, Inc. | Manager Trainee  | Mountain Top, PA | [Apply Here](https://www.linkedin.com/jobs/view/4256921717) |
 | Johnson & Johnson | Summer 2026 Finance Internship at Johnson & Johnson  | Spring House, PA | [Apply Here](https://ent-oman.com/job-library/job/summer-2026-finance-internship-at-johnson-and-johnson-spring-house-pa-WGF5WG4wcmt6L0gwYjNLWEJOMnh2NVR1TVE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -83,8 +83,8 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Maricopa Association of Governments (MAG) | IT Software Development Intern | Phoenix, AZ | [Apply Here](https://jobright.ai/jobs/info/685d219b13e97b6671e211e3?utm_source=1099&utm_campaign=Software%20Engineer) |
 | Mattress Firm | Sleep Expert - Bilingual Sales | LaGrange, GA | [Apply Here](https://www.linkedin.com/jobs/view/4257648093) |
 | MINI Česká republika | Vedoucí prodeje nových vozů BMW – Praha | AutoWallis | Praha, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257959873) |
+| Optiver | Trading Operations Analyst Intern (Summer 2026) | Chicago, IL | [Apply Here](https://www.linkedin.com/jobs/view/4266985879) |
 | Penske Truck Leasing | Sales and Operations Management Trainee  | Louisville, KY | [Apply Here](https://www.linkedin.com/jobs/view/4256921700) |
-| Penske Truck Leasing | Sales and Operations Management Trainee | Richmond, VA | [Apply Here](https://www.linkedin.com/jobs/view/4257628656) |
 | PJ Fitzpatrick, LLC | Junior Bath Apprentice | Pittsburgh, PA | [Apply Here](https://www.linkedin.com/jobs/view/4259295610) |
 | Radiological Society of North America (RSNA) | Intern: Corporate Relations & Exhibition Services | Oak Brook, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259411590) |
 | Red Bull | Student Marketeer - North Central College | Woodridge, IL | [Apply Here](https://www.linkedin.com/jobs/view/4259427123) |
