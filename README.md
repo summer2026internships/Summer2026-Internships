@@ -73,6 +73,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Lensa | Accounting Internship Summer 2026  | Wayne, PA | [Apply Here](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) |
 | Lensa | 2026 Summer Internship Program - Investment Banking  | Baltimore, MD | [Apply Here](https://www.linkedin.com/jobs/view/4257296455) |
 | Lensa | 2026 Commercial Banking Summer Internship - Early Careers | Dallas, TX | [Apply Here](https://www.linkedin.com/jobs/view/4257400067) |
+| Lensa | Intern - Supply Chain | Hacienda Heights, CA | [Apply Here](https://www.linkedin.com/jobs/view/4259433026) |
 | Lidl US | Store Associate - Stonecrest, GA | Decatur, AL | [Apply Here](https://www.linkedin.com/jobs/view/4258949116) |
 | Magnera Corporation | Sr. Sales Director - Personal Care P&G | Evansville, IN  | [Apply Here](https://www.linkedin.com/jobs/view/4261483690) |
 | Maher Duessel | Summer 2026 Audit Intern | Butler, AL,  | [Apply Here](https://www.recruit.net/job/summer-audit-intern-jobs/5CB5DC462D3901C1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -92,6 +93,7 @@ Browse 250+ active internship opportunities by category updated every minute!
 | Susquehanna International Group, LLP (SIG) | Credit Analyst Internship: Summer 2026 | Bala Cynwyd, PA | [Apply Here](https://careers.sig.com/job/9526/Credit-Analyst-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Susquehanna International Group, LLP (SIG) | Tax Internship: Summer 2026 |  Bala Cynwyd, PA, | [Apply Here](https://careers.sig.com/job/9586/Tax-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Susquehanna International Group, LLP (SIG) | Quantitative Research Internship - PhD: Summer 2026 | Bala Cynwyd, PA | [Apply Here](https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| Susquehanna International Group, LLP (SIG) | Sell Side Research Internship: Summer 2026 | Bala Cynwyd, PA | [Apply Here](https://careers.sig.com/job/9303/Sell-Side-Research-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Teall Sports & Entertainment | REVELxp - Hospitality Intern, Premium Field Suites, University of Cincinnati | Cincinnati, OH | [Apply Here](https://www.linkedin.com/jobs/view/4259418194) |
 | Ted Britt Ford Automotive Group | Service Porter (Entry Level) | Chantilly, VA | [Apply Here](https://www.linkedin.com/jobs/view/4260032989) |
 | Tesla | Tesla Advisor, Sales, Lexington | Louisville, KY | [Apply Here](https://www.linkedin.com/jobs/view/4261063597) |

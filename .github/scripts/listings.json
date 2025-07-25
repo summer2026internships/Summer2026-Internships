@@ -366,12 +366,6 @@
     "link": "https://www.linkedin.com/jobs/view/4257351674"
   },
   {
-    "company": null,
-    "role": null,
-    "location": null,
-    "link": null
-  },
-  {
     "company": "Maricopa Association of Governments (MAG)",
     "role": "IT Software Development Intern",
     "location": "Phoenix, AZ",
@@ -588,15 +582,21 @@
     "link": "https://www.linkedin.com/jobs/view/4257400067"
   },
   {
-    "company": null,
-    "role": null,
-    "location": null,
-    "link": null
-  },
-  {
     "company": "PJ Fitzpatrick, LLC",
     "role": "Junior Bath Apprentice",
     "location": "Pittsburgh, PA",
     "link": "https://www.linkedin.com/jobs/view/4259295610"
+  },
+  {
+    "company": "Lensa",
+    "role": "Intern - Supply Chain",
+    "location": "Hacienda Heights, CA",
+    "link": "https://www.linkedin.com/jobs/view/4259433026"
+  },
+  {
+    "company": "Susquehanna International Group, LLP (SIG)",
+    "role": "Sell Side Research Internship: Summer 2026",
+    "location": "Bala Cynwyd, PA",
+    "link": "https://careers.sig.com/job/9303/Sell-Side-Research-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
   }
 ]
