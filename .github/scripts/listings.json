@@ -462,6 +462,12 @@
     "link": "https://www.linkedin.com/jobs/view/4270506322"
   },
   {
+    "company": null,
+    "role": null,
+    "location": null,
+    "link": null
+  },
+  {
     "company": "Enterprise",
     "role": "Sales Management Trainee Intern-Fall- Lithia Springs",
     "location": "Lithia Springs, GA",
@@ -592,11 +598,5 @@
     "role": "Intern - Supply Chain",
     "location": "Hacienda Heights, CA",
     "link": "https://www.linkedin.com/jobs/view/4259433026"
-  },
-  {
-    "company": "Susquehanna International Group, LLP (SIG)",
-    "role": "Sell Side Research Internship: Summer 2026",
-    "location": "Bala Cynwyd, PA",
-    "link": "https://careers.sig.com/job/9303/Sell-Side-Research-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
   }
 ]
